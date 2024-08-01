@@ -17,7 +17,7 @@ indices:
         value: attribute(el, "content")
   main-nav:
     include:
-      - /ue-nav-sample/*
+      - /ue-nav-sample/**
     target: /main-nav.json
     properties:
       lastModified:
