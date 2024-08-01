@@ -18,8 +18,6 @@ indices:
   main-nav:
     include:
       - /ue-nav-sample/**
-    exclude:
-      - /ue-nav-sample/**/**
     target: /main-nav.json
     properties:
       lastModified:
